@@ -119,6 +119,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+100daysofcode/
 
 # Spyder project settings
 .spyderproject
